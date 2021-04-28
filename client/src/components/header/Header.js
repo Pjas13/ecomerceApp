@@ -34,9 +34,7 @@ const Header = () => {
               )}
             </li>
             <li className="nav-item">
-              {context && context.currentUser.isAdmin === true ? (
                 <Link className="nav-link btn btn-dark" to="/stores/new">Create Store</Link>
-              ) : null}
             </li>
             <li className="nav-item">
               <Link className="nav-link btn btn-dark" to="/cart">
