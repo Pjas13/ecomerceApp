@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/glazed-app/static/css/main.8cbdca83.chunk.css",
+    "main.js": "/glazed-app/static/js/main.f615815b.chunk.js",
+    "main.js.map": "/glazed-app/static/js/main.f615815b.chunk.js.map",
+    "runtime-main.js": "/glazed-app/static/js/runtime-main.5309657a.js",
+    "runtime-main.js.map": "/glazed-app/static/js/runtime-main.5309657a.js.map",
+    "static/css/2.01ca705e.chunk.css": "/glazed-app/static/css/2.01ca705e.chunk.css",
+    "static/js/2.516567ae.chunk.js": "/glazed-app/static/js/2.516567ae.chunk.js",
+    "static/js/2.516567ae.chunk.js.map": "/glazed-app/static/js/2.516567ae.chunk.js.map",
+    "index.html": "/glazed-app/index.html",
+    "static/css/2.01ca705e.chunk.css.map": "/glazed-app/static/css/2.01ca705e.chunk.css.map",
+    "static/css/main.8cbdca83.chunk.css.map": "/glazed-app/static/css/main.8cbdca83.chunk.css.map",
+    "static/js/2.516567ae.chunk.js.LICENSE.txt": "/glazed-app/static/js/2.516567ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5309657a.js",
+    "static/css/2.01ca705e.chunk.css",
+    "static/js/2.516567ae.chunk.js",
+    "static/css/main.8cbdca83.chunk.css",
+    "static/js/main.f615815b.chunk.js"
+  ]
+}
